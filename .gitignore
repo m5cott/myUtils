@@ -1,0 +1,19 @@
+# Basic gitignore rules
+*~
+*#
+
+# OS generated files
+.DS_Store
+.DC_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehtumbs.db
+Thumbs.db
+desktop.ini
+
+# Visual Studio
+.vs
+
+# Build Files
+*.obj
